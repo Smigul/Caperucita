@@ -7,3 +7,5 @@ asdf
 asd
 fas
 df
+para cuando quiera hacer una actualizcion, deberé pesionar en push, así los cambios
+que genero en mi repositorio local pasaran a actualizarse en github.com
