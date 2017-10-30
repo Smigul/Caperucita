@@ -1,11 +1,14 @@
 cuento
 
-Esta es la introducción del cuento de la caperucita.
-Aca estaría la correccion pero lamentablemente no tiene asique no haremos nada
+Esta es la introducciÃ³n del cuento de la caperucita.
+Aca estarÃ­a la correccion pero lamentablemente no tiene asique no haremos nada
 mas que escribir palabras.
 asdf
 asd
 fas
 df
-para cuando quiera hacer una actualizcion, deberé pesionar en push, así los cambios
+para cuando quiera hacer una actualizcion, deberÃ© pesionar en push, asÃ­ los cambios
 que genero en mi repositorio local pasaran a actualizarse en github.com
+pero si lo que quiero es guardar los cambios que reaizo en la pagina web, y que se actualizen en mi aplicacion github desktop
+tengo que generar cambios en mi repositorio remoto. guardar y en github desktop presionar pull para sincronizar los cambios
+efectuados.
